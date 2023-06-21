@@ -96,23 +96,15 @@
 
 这里给出第五次设计之后较为完备的电梯仿真程序的运行结果截图，并附有相应的解释：
 
-![image](/Screenshot_of_code_running/图片1.jpg)
+<img src="/Screenshot_of_code_running/图片1.jpg" width = "40%" height = "40%" /> <img src="/Screenshot_of_code_running/图片2.jpg" width = "40%" height = "40%" />
 
-![image](/Screenshot_of_code_running/图片2.jpg)
+<img src="/Screenshot_of_code_running/图片3.jpg" width = "40%" height = "40%" /> <img src="/Screenshot_of_code_running/图片4.jpg" width = "40%" height = "40%" />
 
-![image](/Screenshot_of_code_running/图片3.jpg)
+<img src="/Screenshot_of_code_running/图片5.jpg" width = "40%" height = "40%" /> <img src="/Screenshot_of_code_running/图片6.jpg" width = "40%" height = "40%" />
 
-![image](/Screenshot_of_code_running/图片4.jpg)
+<img src="/Screenshot_of_code_running/图片7.jpg" width = "40%" height = "40%" /> <img src="/Screenshot_of_code_running/图片8.jpg" width = "40%" height = "40%" />
 
-![image](/Screenshot_of_code_running/图片5.jpg)
-
-![image](/Screenshot_of_code_running/图片6.jpg)
-
-![image](/Screenshot_of_code_running/图片7.jpg)
-
-![image](/Screenshot_of_code_running/图片8.jpg)
-
-——图片阅读顺序为从上到下，
+——图片阅读顺序为从左到右，从上到下，
 
 这里选取Passenger 3作为观察对象进行乘梯过程的跟踪，
 
@@ -126,14 +118,12 @@
 
 下边是仿真结束时的统计信息显示：
 
-![image](/Screenshot_of_code_running/图片9.jpg)
-
+<img src="/Screenshot_of_code_running/图片9.jpg" width = "55%" height = "55%" /> 
 ——首先显示的是67位乘客在前100分钟陆续到达大楼，并于5966秒结束乘梯，
 
 然后是电梯总运行时间和总空闲时间统计，平均一位乘客一次请求所花费的时间统计
 
-![image](/Screenshot_of_code_running/图片10.jpg)
-
+<img src="/Screenshot_of_code_running/图片10.jpg" width = "55%" height = "55%" /> 
 ——这里是运行的峰值时段的统计结果输出显示
 
 #### **设计总结**
